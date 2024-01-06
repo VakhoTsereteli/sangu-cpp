@@ -16,7 +16,7 @@
 
 ## 8. **[ნულოვანი ეფექტი](https://github.com/VakhoTsereteli/sangu-cpp/blob/main/nulovani_efeqti.md)**
 
-## 9. **[მონაცემთა რამდენიმე ტიპი, რომლის ამოცნობა შეუძლია კომპილერს auto -თი.](https://github.com/VakhoTsereteli/sangu-cpp/blob/main/monacemta_ramdenime_tipi_romlis_amocnoba_sheuzlia_kompilers_autoti.md)
+## 9. **[მონაცემთა რამდენიმე ტიპი, რომლის ამოცნობა შეუძლია კომპილერს auto -თი.](https://github.com/VakhoTsereteli/sangu-cpp/blob/main/monacemta_ramdenime_tipi_romlis_amocnoba_sheuzlia_kompilers_autoti.md)**
 
 ## 10. **[შემოკლებული ოპერატორები. გვერდით ეფექტები.](https://github.com/VakhoTsereteli/sangu-cpp/blob/main/shemoklebuli_operatorebi_gverditi_efeqtebi.md)**
 
