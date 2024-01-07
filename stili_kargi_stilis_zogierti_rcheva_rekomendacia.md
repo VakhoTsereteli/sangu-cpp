@@ -48,7 +48,6 @@ int main() {}
 int snake_case;
 int camelCase;
 int PascalCase;
-int kebab-case;
 
 // მუდმივი ცვლადების შემთხვევაში ზოგი პროგრამისტი ასე წერს
 const int MAX_LIMIT;
