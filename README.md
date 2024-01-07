@@ -35,3 +35,13 @@
 ## 17. **[ლამბდა ფუნქცია, პარამეტრების გადაცემის ვარიანტები, განსხვავებების ჩვეულებრივი ფუნქციისგან](https://github.com/VakhoTsereteli/sangu-cpp/blob/main/lamda_funqcia_parametrebis_gadacemis_variantebi_gansxvavebebi_chveulebrivi_funqciisgan_magalitebi.md)**
 
 ## 18. **[ფუნქცია, მისი სინტაქსი. პარამეტრების გადაცემის ვარიანტები. მაგალითები.](https://github.com/VakhoTsereteli/sangu-cpp/blob/main/funqcia.md)**
+
+## 19. **[<algorithm> და <numeric> ბიბლიოთეკის რამდენიმე ალგორითმი. მათი აღწერა და გამოყენების მაგალითები.](https://github.com/VakhoTsereteli/sangu-cpp/blob/main/algoritmebi.md)**
+
+## 20. **[შემთხვევითი სიდიდეები და შემთხვევითი რიცხვების განაწილება. გამოყენების მაგალითები.](https://github.com/VakhoTsereteli/sangu-cpp/blob/main/random_nums.md)**
+
+## 21. **[switch შეტყობინება. მისი აღწერა და გამოყენების მაგალითები.](https://github.com/VakhoTsereteli/sangu-cpp/blob/main/switch.md)**
+
+## 22. **[მონაცემთა ახალი ტიპის შექმნა კლასის საშუალებით და განაცხადების გაკეთება კლასის ობიექტებზე. მოკლე აღწერა მაგალითებით.](https://github.com/VakhoTsereteli/sangu-cpp/blob/main/class.md)**
+
+## 23. **[მისამართების არითმეტიკა მოკლე მაგალითებით. მისამართიდან შესაბამისი მნიშვნელობის ამოღება, ანუ განმისამართება. მაგალითები.](https://github.com/VakhoTsereteli/sangu-cpp/blob/main/pointer.md)**
