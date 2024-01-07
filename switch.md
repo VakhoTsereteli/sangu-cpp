@@ -23,16 +23,16 @@ switch(პირობა) {
 #### მაგალითი:
 
 ```c++
-std::int x = 0;
+int x = 0;
 switch (x) {
   case 0:
-    std::cout << "x = " << 0 << endl;    
+    std::cout << "x = " << 0 << std::endl;    
     break;
   case 1:
-    std::cout << "x = " << 1 << endl;
+    std::cout << "x = " << 1 << std::endl;
     break;
   default:
-    std::cout << "მნიშვნელობა ვერ მოიძებნა" << endl;
+    std::cout << "მნიშვნელობა ვერ მოიძებნა" << std::endl;
 } 
 ```
 
