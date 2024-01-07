@@ -14,8 +14,8 @@ std::default_random_engine dre(std::random_device{}());
 std::uniform_int_distribution<int>  random_int_num(1, 10);
 std::uniform_real_distribution<double>  random_real_num(1, 10);
 
-std::cout <<  "Random Int Num: "  <<  random_int_num(dre) <<  std::endl;
-std::cout <<  "Random Real Num: "  <<  random_real_num(dre) <<  std::endl;
+std::cout <<  "Random Int Num: "  <<  random_int_num(dre) <<  std::endl; /* დაბეჭდავს შემთხვევით გენერირებულ მთელ რიცხვს*/
+std::cout <<  "Random Real Num: "  <<  random_real_num(dre) <<  std::endl; /* დაბეჭდავს შემთხვევით გენერირებულ ნამდვილ რიცხვს*/
 
 }
 }
