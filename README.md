@@ -40,7 +40,7 @@
 
 ## 18. **[ფუნქცია, მისი სინტაქსი. პარამეტრების გადაცემის ვარიანტები. მაგალითები.](https://github.com/VakhoTsereteli/sangu-cpp/blob/main/funqcia.md)**
 
-## 19. **[<algorithm> და <numeric> ბიბლიოთეკის რამდენიმე ალგორითმი. მათი აღწერა და გამოყენების მაგალითები.](https://github.com/VakhoTsereteli/sangu-cpp/blob/main/algoritmebi.md)**
+## 19. **[< algorithm > და < numeric > ბიბლიოთეკის რამდენიმე ალგორითმი. მათი აღწერა და გამოყენების მაგალითები.](https://github.com/VakhoTsereteli/sangu-cpp/blob/main/algoritmebi.md)**
 
 ## 20. **[შემთხვევითი სიდიდეები და შემთხვევითი რიცხვების განაწილება. გამოყენების მაგალითები.](https://github.com/VakhoTsereteli/sangu-cpp/blob/main/random_nums.md)**
 
